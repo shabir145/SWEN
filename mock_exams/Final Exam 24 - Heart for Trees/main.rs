@@ -1,4 +1,4 @@
-use heartree::{HeartRateTree}
+use heartree::{HeartRateTree};
 
 fn main() {
     // Example usage of the HeartRateTree
